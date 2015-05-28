@@ -1,0 +1,13 @@
+SyntaxTree: 
+	(Procedure 
+		(Procedure Identifier TESTPOC) 
+		(Parameters-list 
+			(Declarations-list empty ) ) 
+		(Declarations 
+			(Label-Declarations 
+				(Labels-list 
+					(Label 2) 
+					(Label 4) 
+					(Label 1) ) ) ) 
+		(Block 
+			(Statements-List  ) ) )

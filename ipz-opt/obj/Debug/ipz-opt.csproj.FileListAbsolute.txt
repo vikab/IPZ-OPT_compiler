@@ -1,0 +1,5 @@
+D:\All here\ipz-opt\ipz-opt\ipz-opt\ipz-opt\bin\Debug\ipz-opt.exe
+D:\All here\ipz-opt\ipz-opt\ipz-opt\ipz-opt\bin\Debug\ipz-opt.pdb
+D:\All here\ipz-opt\ipz-opt\ipz-opt\ipz-opt\obj\Debug\ipz-opt.csprojResolveAssemblyReference.cache
+D:\All here\ipz-opt\ipz-opt\ipz-opt\ipz-opt\obj\Debug\ipz-opt.exe
+D:\All here\ipz-opt\ipz-opt\ipz-opt\ipz-opt\obj\Debug\ipz-opt.pdb
